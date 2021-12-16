@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\bin\Debug\CoCaro.exe.config
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\bin\Debug\CoCaro.exe
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\bin\Debug\CoCaro.pdb
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\obj\Debug\CoCaro.exe
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\obj\Debug\CoCaro.pdb
+C:\Users\Administrator\source\repos\CoCaro\CoCaro\obj\Debug\CoCaro.Form1.resources
